@@ -10,7 +10,15 @@
 
 - [Isometric Contributions](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien?hl=zh-CN)
 
+  推荐指数：★☆☆☆☆
+
   将 GitHub 账号的提交纪录 3D 立体化。
+  
+- [Avatars for Github](https://chrome.google.com/webstore/detail/avatars-for-github/pgjmdbklnfklcjfbonjfkdhaonlfogbb?hl=zh-CN)
+
+  推荐指数：★☆☆☆☆
+  
+  displayed user avatars on the Github news feed, nothing more, nothing less..
 
 ## APIs
 
