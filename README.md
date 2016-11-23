@@ -2,11 +2,25 @@
 
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
 
+  推荐指数：★★★★★
+
 - [GitHub Plus](https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd)
 
 - [GitHub Hovercard](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk)
 
 - [Sourcegraph for GitHub](https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack)
+
+- [Octo Mate](https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf)
+
+  推荐指数：★★☆☆☆
+
+  Missing mate of GitHub, making single file download effortless and with more features
+  
+- [GitHub Awesome Autocomplete](https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd?hl=zh-CN)
+
+  推荐指数：★★☆☆☆
+
+  Add instant search capabilities to GitHub's search bar.
 
 - [Isometric Contributions](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien?hl=zh-CN)
 
@@ -34,24 +48,70 @@
 
 - [ChromeADB](https://chrome.google.com/webstore/detail/chromeadb/fhdoijgfljahinnpbolfdimpcfoicmnm)
 
+- [ADB](https://chrome.google.com/webstore/detail/adb/dpngiggdglpdnjdoaefidgiigpemgage?hl=zh-CN)
+
+  推荐指数：★★☆☆☆
+
 - [vysor](https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm)
 
 ## Webpages
 
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=zh-CN)
 
+  推荐指数：★★★★☆
+
   当您发现自己有太多的标签页时，单击OneTab图标，将所有标签页转换成一个列表。当您需要再次访问这些标签页时，可以单独或全部恢复它们。
 
 - [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=zh-CN)
 
+- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN)
+
+  推荐指数：★★☆☆☆
+  
+  Tampermonkey is the most popular userscript manager for Google Chrome. Userscripts are little computer programs that for example add a download button to the YouTube page, cleanup your Facebook timeline or help playing an online game.
+  
+- [LastPass: Free Password Manager](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?hl=zh-CN)
+
+  推荐指数：★★★★☆
+  
+  Only remember one password - your LastPass master password. Save all your usernames and passwords to LastPass, and it will autologin to your sites and sync your passwords everywhere you need them.
+  
+- [Checker Plus for Gmail™](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj?hl=zh-CN)  
+
+  推荐指数：★★★★☆
+  
+  显示 谷歌邮箱 收件箱中的新邮件和联系人照片；通过桌面通知获得新邮件提醒；不打开Gmail网页就能收取、阅读和删除邮件。更多功能待你发现！
+
 
 - [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)
 
+- [Search by Image (by Google)](https://chrome.google.com/webstore/detail/search-by-image-by-google/dajedkncpodkggklbegccjpmnglmnflm?hl=zh-CN)
+
+  推荐指数：★★☆☆☆
+  
+  This extension allows you to initiate a Google search using any image on the web. By the Google Images team.
+
+
 - [smartUp手势](https://chrome.google.com/webstore/detail/smartup-gestures/bgjfekefhjemchdeigphccilhncnjldn)
+
+- [The QR Code Extension](https://chrome.google.com/webstore/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb?hl=zh-CN)
+
+  推荐指数：★★☆☆☆
+
+  Generates a QR Code from the Page URL of the current tab with a single click. The QR Code is displayed inline in a small popup.
+  
 
 - [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=zh-CN)
 
+  推荐指数：★★★★☆
+
   WallPaper, Weather, TODO List on Chrome.
+  
+- [Custom Google™ Background](https://chrome.google.com/webstore/detail/custom-google-background/jepibmfmhopgkplegmkjgifmhabbjadg?hl=zh-CN)
+
+  推荐指数：★★☆☆☆
+  
+  Bring your custom background image back to Google homepage with this small extension.
   
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb?hl=zh-CN)
 
