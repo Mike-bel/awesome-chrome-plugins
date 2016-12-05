@@ -52,6 +52,10 @@
 
   推荐指数：★★☆☆☆
 
+- [Android SDK Search](https://chrome.google.com/webstore/detail/android-sdk-search/hgcbffeicehlpmgmnhnkjbjoldkfhoin?hl=zh-CN)
+
+  推荐指数：★★★☆☆
+
 - [vysor](https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm)
 
 ## Webpages
