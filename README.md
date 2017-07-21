@@ -3,6 +3,10 @@
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
 
   推荐指数：★★★★★
+  
+- [insight.io](https://insight.io/)
+
+  推荐指数：★★★★★
 
 - [GitHub Plus](https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd)
 
