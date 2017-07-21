@@ -123,8 +123,6 @@
   
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb?hl=zh-CN)
 
-  
-
 - [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka)
 
 - [划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad)
@@ -144,6 +142,10 @@
 ## Apps
 
 - [WiFi ADB - Debug Over Air](https://play.google.com/store/apps/details?id=com.ttxapps.wifiadb&hl=zh_CN)
+
+## Music
+
+- [listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension)
 
 ## Others
 
