@@ -7,6 +7,14 @@
 - [insight.io](https://insight.io/)
 
   推荐指数：★★★★★
+  
+- [OhMyStar2](https://ohmystarapp.com/)
+
+  The best way to organise your GitHub Stars.
+  
+- [Astral](https://astralapp.com/)
+
+  Organize Your Github StarsWith Ease.
 
 - [GitHub Plus](https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd)
 
