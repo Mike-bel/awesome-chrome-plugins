@@ -72,6 +72,10 @@
 
 ## Webpages
 
+- [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=zh-CN)
+
+  利用用户样式管理器Stylish来重新编辑网站的样式。您可利用Stylish为许多网站安装主题和皮肤，也可创建自己的主题和皮肤。
+
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=zh-CN)
 
   推荐指数：★★★★☆
@@ -136,6 +140,7 @@
 - [划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad)
 
 - [TransIt](https://chrome.google.com/webstore/detail/transit/pfjipfdmbpbkcadkdpmacdcefoohagdc)
+
 
 ## Web前端
 
