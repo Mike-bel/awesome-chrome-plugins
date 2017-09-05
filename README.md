@@ -81,6 +81,12 @@
   推荐指数：★★★★☆
 
   当您发现自己有太多的标签页时，单击OneTab图标，将所有标签页转换成一个列表。当您需要再次访问这些标签页时，可以单独或全部恢复它们。
+  
+- [Quick QR Code Generator](https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp/related?hl=zh-CN)
+
+  推荐指数：★★★★☆
+  
+  一键生成二维码，自动添加当前网页 URL 为二维码内容，或者手动添加其他内容，可以简单修改二维码样式。
 
 - [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=zh-CN)
 
