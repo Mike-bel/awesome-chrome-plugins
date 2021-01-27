@@ -4,6 +4,12 @@
 
   推荐指数：★★★★★
   
+- [GitZip for github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn/related)
+
+  推荐指数：★★★★★
+  
+  It can make the sub-directories and files of github repository as zip and download it.
+  
 - [insight.io](https://insight.io/)
 
   推荐指数：★★★★★
